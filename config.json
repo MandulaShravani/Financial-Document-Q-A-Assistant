@@ -1,0 +1,14 @@
+{
+  "ollama": {
+    "host": "http://localhost:11434",
+    "model": "llama3.1:8b",
+    "options": {
+      "temperature": 0.2
+    }
+  },
+  "retrieval": {
+    "chunk_size": 1200,
+    "chunk_overlap": 150,
+    "top_k": 6
+  }
+}
