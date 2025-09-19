@@ -62,6 +62,5 @@ Then open the URL that Streamlit prints (usually http://localhost:8501).
 - This is a reference starter—extend error handling, add more robust parsing, and refine prompts as needed.
 
 ## Example Questions
-- "What was total revenue in 2023?"
-- "List operating expenses and summarize the trend."
-- "What is the net profit margin for Q1?"
+- What was total revenue in 2023 and 2024 ,and analyze the changes occured?
+- What was gross profit in each year?
